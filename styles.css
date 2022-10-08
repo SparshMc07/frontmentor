@@ -1,0 +1,35 @@
+body{
+    background-color: #d6e2f0;
+    height: 100%;
+    width: 100%;
+}
+.box {
+    width: min-content;
+    height: min-content;
+    border-radius: 1rem;
+    background: white;
+}
+img {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 1rem;
+    margin: 1rem 1rem 0rem 1rem;
+}
+
+h2 {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    color: #1f3251;
+    padding: 1rem 1rem 0rem 1rem;
+    text-align: center;
+}
+
+p {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    color: #1f3251;
+    padding: 0rem 1rem 1rem 1rem;
+    text-align: center;
+}
