@@ -21,7 +21,7 @@ The first practice challenge on frontendmentor
 
 ### Links
 
-- Live Site URL: [Live Site](https://sparshmc07.github.io/frontmentor)
+- Live Site URL: [Live Site](https://yom4n.github.io/frontmentor/)
 
 ## My process
 - First I made the HTML and made a div for the box with a class "box"
